@@ -19,8 +19,8 @@ and transparency for property owners and tenants.Developed Using HTML, CSS, Angu
   - **User Reviews and Ratings:** Tenants can leave reviews and ratings for rental properties and property owners.
   ## Technologies Used
   
-   - **Frontend:** HTML, CSS, Angular
-   - **Backend:**  JDK, Springboot
+   - **Frontend:** HTML, CSS,Javascript, Angular
+   - **Backend:**  Java, Springboot
    - **Database:** MySQL
   # Screenshots of the Project
   
