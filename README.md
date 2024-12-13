@@ -22,3 +22,5 @@ and transparency for property owners and tenants.Developed Using HTML, CSS, Angu
    - **Frontend:** HTML, CSS, Angular
    - **Backend:**  JDK, Springboot
    - **Database:** MySQL
+  # Screenshots of the Project
+  
